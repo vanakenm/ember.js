@@ -82,8 +82,6 @@ export { OutletView };
   @return {String} HTML string
 */
 export function outletHelper(params, options, env) {
-  debugger;
-
   var outletSource;
   var container;
   var viewName;

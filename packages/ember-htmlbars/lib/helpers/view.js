@@ -20,8 +20,6 @@ function bindingify(hash) {
 }
 
 function viewHelper(params, options, env) {
-  debugger;
-
   var hash = bindingify(options.hash);
   if (hash.class) { hash.classNames = hash.class.split(' '); }
   if (hash.id) { hash.elementId = hash.id; }
