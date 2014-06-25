@@ -139,4 +139,4 @@ And in case we didn't emphasize it enough: we love tests!
 
 NOTE: Partially copied from https://raw.github.com/thoughtbot/factory_girl_rails/master/CONTRIBUTING.md
 
-Qyuct test
+Better test.
